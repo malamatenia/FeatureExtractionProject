@@ -15,6 +15,6 @@ Il est important d'ajouter une description de l'ensemble de données final, nota
 
 TODO:
 
-- [ ] Final clean of the data and balancing of classes (Matenia)
+- [x] Final clean of the data and balancing of classes (Matenia)
 - [ ] Adaptation of https://github.com/mikekestemont/DeepScript code for our purposes
 - [ ] Interpretation of the extracted features
