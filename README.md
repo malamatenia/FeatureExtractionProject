@@ -1,4 +1,8 @@
 # FeatureExtractionProject
+
+### Link to models and weights : https://drive.google.com/drive/folders/1KMNZ3roDhKn93ovfJK4Bl2TD5FWmWBhj?usp=share_link 
+
+
 L'objectif de ce projet est d'explorer l'extraction et l'interprétation des features issues d'un classificateur CNN de deux classes de manuscrits médiévaux différents : fortement abrégés et non-abrégés. Pour cela, l'équipe s'est inspirée du cadre DeepScript de Mike Kestemont : https://github.com/mikekestemont/DeepScript où ils ont observé des signes d'abréviation apparaissant dans la feature map.
 
 La première étape du projet consiste à choisir et construire un ensemble de données pour notre expérience. Nous avons décidé de travailler avec des jeux de données en latin et en français ancien qui sont bien documentés :
